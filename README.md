@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Alona! <br/><a href="https://github.com/alon-asma-tko">Aspiring Cybersecurity Professional</a>, 
+  <br/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">OSINT Expert, PCI (Private Certified Investigator), Computer Science Student</a>
+  
+ 
 
-<!--
-**alon-asma-tko/alon-asma-tko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📂 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Security Audit (Google Cybersecurity Certificate</b>
+  - [Praciting Security Audit](https://github.com/?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>📂 Programming Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice</b>
+  - [Praciting DS & Algos in C](https://github.com/?)
+
+
+
+
+
+🔗 <span/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">Connect with me</a>
+
+
+
+🌐 <span/><a href="https://alon-asma-tko.github.io/">Website</a>
+

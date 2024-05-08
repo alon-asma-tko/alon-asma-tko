@@ -6,7 +6,7 @@
 <h2>📂 Cybersecurity Projects:</h2>
 
 - <b>Security Audit (Google Cybersecurity Certificate)</b>
-  - [Practising Security Audit](https://github.com/?)
+  - [Practising Security Audit](Controls-and-compliance-checklist.docx)
 
 
 <h2>📂 Programming Projects:</h2>

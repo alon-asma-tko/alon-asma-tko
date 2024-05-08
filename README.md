@@ -6,13 +6,13 @@
 <h2>📂 Cybersecurity Projects:</h2>
 
 - <b>Security Audit (Google Cybersecurity Certificate)</b>
-  - [Praciting Security Audit](https://github.com/?)
+  - [Practising Security Audit](https://github.com/?)
 
 
 <h2>📂 Programming Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in C](https://github.com/?)
+  - [Practising DS & Algos in C](https://github.com/?)
 
 
 

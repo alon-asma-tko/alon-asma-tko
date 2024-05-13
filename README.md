@@ -1,12 +1,12 @@
 <h1>Hi, I'm Alona! <br/><a href="https://github.com/alon-asma-tko">Aspiring Cybersecurity Professional</a>, 
-  <br/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">OSINT Expert, PCI (Private Certified Investigator), Computer Science Student</a>
+  <br/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">OSINT Expert, Computer Science Student, PCI (Private Certified Investigator)</a>
   
  
 
 <h2>📂 Cybersecurity Projects:</h2>
 
-- <b>Security Audit (Google Cybersecurity Certificate)</b>
-  - [Practising Security Audit](Controls-and-compliance-checklist.docx)
+- <b>Google Cybersecurity Certificate</b>
+  - [Practice Projects](https://github.com/alon-asma-tko/google-cyber-cert-practice)
 
 
 <h2>📂 Programming Projects:</h2>

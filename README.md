@@ -1,7 +1,12 @@
-<h1>Hi, I'm Alona! <br/><a href="https://github.com/alon-asma-tko">Aspiring Cybersecurity Professional</a>, 
-  <br/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">OSINT Expert, Computer Science Student, PCI (Private Certified Investigator)</a>
+<h1>Hi, I'm Alona! <br/><a href="https://github.com/alon-asma-tko"></a> 
+ <a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">Computer Science Student</a>
   
- 
+<h2>📂 Programming Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice</b>
+- [Hot Potato Game in C](https://github.com/alon-asma-tko/hotPotatoGame)
+- [Deque Operations in C](https://github.com/alon-asma-tko/DequeOps)
+- [Radix Sort in C](https://github.com/alon-asma-tko/RadixSort)
 
 <h2>📂 Cybersecurity Projects:</h2>
 
@@ -9,10 +14,7 @@
   - [Practice Projects](https://github.com/alon-asma-tko/google-cyber-cert-practice)
 
 
-<h2>📂 Programming Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practising DS & Algos in C](https://github.com/?)
 
 
 

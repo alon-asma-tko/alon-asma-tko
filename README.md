@@ -25,7 +25,7 @@
 
 
 
-🔗 <span/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">Connect with me</a>
+ <h3>🔗<span/><a href="https://www.linkedin.com/in/alona-smatko-1a93a3aa/">Connect with me</a></h3>
 
 
 
